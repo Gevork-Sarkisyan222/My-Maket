@@ -1,0 +1,433 @@
+body{
+    background-color: #181818;
+}
+
+
+
+
+.leftbg>img{
+    position: absolute;
+}
+
+.ntimg>img{
+    position: absolute;
+}
+
+.iconman>img{
+    position: absolute;
+    left: 70px;
+    top: 102px;
+}
+
+.nametl{
+    position: absolute;
+    color: #FFFFFF;
+    left: 73px;
+    top: 210px;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.txfr{
+    position: absolute;
+    left: 41px;
+    top: 239px;
+    font-size: 17px;
+    font-family: 'Roboto';
+    color: #9c9999;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.socialssvg>img{
+    position: absolute;
+    left: 90px;
+    top: 289px;
+    cursor: pointer;
+}
+
+.btximg>img{
+    position: absolute;
+    top: 400px;
+    left: 20px;
+}
+
+.line1>img{
+    position: absolute;
+    left: 28px;
+    top: 380px;
+}
+
+.line2>img{
+    position: absolute;
+    left: 21px;
+    top: 530px;
+}
+
+.redbtnimg>img{
+    position:absolute;
+    top: 570px;
+}
+
+.redbtnimg>p{
+    position: absolute;
+    top: 570px;
+    left: 37px;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+
+.bluebtnimg>img{
+    position: absolute;
+    top: 571px;
+    left: 160px;
+    cursor: pointer;
+}
+
+.bluebtnimg>p{
+    position: absolute;
+    top: 570px;
+    left: 185px;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+
+.header>img{
+    position: absolute;
+    left: 286px;
+}
+
+.gl>p{
+    position: absolute;
+    left: 333px;
+    color: #FFFFFF;
+    font-size: 14px;
+    top: 3px;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+
+.gl>p:hover{
+    color: #3137C9;
+    cursor: pointer;
+}
+
+.st>p{
+    position: absolute;
+    left: 454px;
+    color: #FFFFFF;
+    top: 3px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.st>p:hover{
+    color: #3137C9;
+    cursor: pointer;
+}
+
+.itic>img{
+    position: absolute;
+    left: 530px;
+    top: 20px;
+}
+
+.oboic>p{
+    position: absolute;
+    left: 580px;
+    top: 3px;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.oboic>p:hover{
+    color: #3137C9;
+    cursor: pointer;
+}
+
+.rek>p{
+    position: absolute;
+    color: #FFFFFF;
+    left: 690px;
+    top: 3px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.rek>p:hover{
+    color: #3137C9;
+    cursor: pointer;
+}
+
+.prof>p{
+    position: absolute;
+    color: #FFFFFF;
+    left: 900px;
+    top: 3px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.prof>p:hover{
+    color: #3137C9;
+    cursor: pointer;
+}
+
+.bgfather>img {
+    position: absolute;
+    left: 360px;
+    top: 90px;
+}
+
+.bc>p{
+    position: absolute;
+    color: grey;
+    left: 407px;
+    top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.bc>p:hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.pod>p{
+    position: absolute;
+    color: grey;
+    left: 860px;
+    top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.pod>p:hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.sharesvg>img{
+    position: absolute;
+    left: 950px;
+    top: 109px;
+}
+
+.ttg>h1{
+    position: absolute;
+    color: #FFFFFF;
+    left: 410px;
+    top: 130px;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.txdata>p{
+    position: absolute;
+    color: grey;
+    left: 410px;
+    top: 159px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ketsvg>img{
+    position: absolute;
+    left: 499px;
+    top: 178px;
+}
+
+.makesaittx>p{
+    position: absolute;
+    color: grey;
+    left: 520px;
+    top: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.loremtx>img{
+    position: absolute;
+    left: 410px;
+    top: 213px;
+}
+
+.kodimg>img{
+    position: absolute;
+    left: 410px;
+    top: 490px;
+}
+
+.lrtx>p{
+    position: absolute;
+    left: 410px;
+    top: 490px;
+    width: 550px;
+    height: 146px;
+    top: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d4d4d4;
+    font-size: 14px;
+}
+
+
+.line4>img{
+    position: absolute;
+    left: 410px;
+    top: 960px;
+
+}
+
+.readtit>p{
+    position: absolute;
+    left: 410px;
+    top: 490px;
+    top: 980px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#FFFFFF;
+    font-size: 17px;
+}
+
+.mtit{
+    position: absolute;
+    left: 410px;
+    top: 120px;
+    color: #FFFFFF;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.regname>p{
+    position: absolute;
+    left: 410px;
+    top: 217px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.newline1>img{
+    position: absolute;
+    left: 409px;
+    top: 260px;
+}
+
+.regemail>p{
+    position: absolute;
+    left: 409px;
+    top: 289px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.newline2>img{
+    position: absolute;
+    left: 409px;
+    top: 332px;
+}
+
+.newline3>img{
+    position: absolute;
+    left: 409px;
+    top: 400px;
+}
+.newline3>input{
+    position: absolute;
+    left: 409px;
+    top: 373px;
+    outline: none;
+    border: none;
+    background: transparent;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+
+
+
+.newline4>img{
+    position: absolute;
+    left: 409px;
+    top: 470px;
+}
+.newline4>input{
+    position: absolute;
+    left: 409px;
+    top: 441px;
+    outline: none;
+    border: none;
+    background: transparent;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+input::placeholder{
+    color: rgba(255, 255, 255, 0.2);
+}
+
+.lastbtn>button{
+    position: absolute;
+    left: 409px;
+    top: 502px;
+    width: 93px;
+    height: 33px;
+    font-size: 15px;
+    color: #FFFFFF;
+    border:none;
+    background-color: #3137C9;
+    box-shadow: 0px 4px 15px -7px rgba(48, 55, 201, 0.3);
+    border-radius: 5px;
+
+}
+
+.lastbtn>button:hover{
+    background-color: #262992;
+    cursor: pointer;
+}
+
+.avatar>img{
+    position: absolute;
+    left: 900px;
+    top: 210px;
+}
+
+.avatar>a{
+    position: absolute;
+    left: 917px;
+    top: 386px;
+    color: #107EFF;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.punkvv>input{
+    position: absolute;
+    left: 1009px;
+    top: 9px;
+    font-size: 20px;
+    width: 280px;
+    height: 36px;
+    border: none;
+    background-color: #222222;
+    outline: none;
+    size: 10px;
+
+}
+
+.punkvv>input::placeholder{
+    position: absolute;
+    font-size: 15px;
+    left: 19px;
+    top:9px;
+    color: #FFFFFF66;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
